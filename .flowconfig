@@ -1,0 +1,8 @@
+[ignore]
+
+[include]
+<PROJECT_ROOT>/node_modules/testcheck
+
+[libs]
+
+[options]
